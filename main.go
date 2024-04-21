@@ -1,9 +1,8 @@
 package main
 <<<<<<< HEAD
 //rrr
-=======
-//kom
->>>>>>> ddd86f0283efc82354b026c76ec194c6841bdb70
+
+
 import (
 	"fmt"
 )
