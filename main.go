@@ -1,6 +1,6 @@
 package main
-<<<<<<< HEAD
-//rrr
+
+//gg
 
 
 import (
